@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1402139834 source:c:\users\manish\documents\codeblock workspace\prime generator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1402140198 source:c:\users\manish\documents\codeblock workspace\prime generator\trial.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

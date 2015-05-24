@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415643498 source:z:\coding...pc\spoj\chocolate pathc++\main.cpp
+	<stdio.h>
+	<vector>
+

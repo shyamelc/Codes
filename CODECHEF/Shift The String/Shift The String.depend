@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1406443397 source:z:\coding...pc\codechef\shift the string\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+

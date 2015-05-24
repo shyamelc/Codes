@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1405953127 source:z:\coding...pc\codechef\present for andrii\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+

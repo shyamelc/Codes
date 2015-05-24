@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1407057047 source:z:\coding...pc\hackerrank\chef and reversing\main.cpp
+	<iostream>
+	<vector>
+	<limits.h>
+

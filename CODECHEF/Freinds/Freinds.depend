@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1405943995 source:z:\coding...pc\codechef\freinds\main.cpp
+	<cstdio>
+	<vector>
+	<string>
+	<iostream>
+
